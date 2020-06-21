@@ -7,5 +7,5 @@ This repo contains experiments from my blog **[Speeding Up Convolutions](https:/
 Libraries such as OpenBLAS and GEMM obviously perform faster than the experiments performed above.
 This experiments are only conducted for learning purposes and to understand how convolution is made faster for execution using algorithms.
 
-If you have any changes that might improve above algorthms, I am all ears to it.
+If you have any changes that might improve above algorthms, all ears.
 Happy Learning :)
